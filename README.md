@@ -167,9 +167,9 @@ This project was developed as a group effort.
 Here are the contributors:
 
 ### **Team Members**
-- **Sneha Patted** — Frontend development, UI/UX, Backend integration  
+- **Manya H B** — Quiz Module  
 - **H Siri** — Prediction system  
 - **Supraja** — genrating roadmaps  
-- **Manya H B** — Quiz Module 
+- **Sneha Patted** — Frontend, Backend integration 
 
 We worked together on requirements, architecture, coding, and project documentation.
