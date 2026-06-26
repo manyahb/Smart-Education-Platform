@@ -168,9 +168,9 @@ Here are the contributors:
 
 ### **Team Members**
 - **Manya H B** — Quiz Module  
-- **H Siri** — Prediction system
-- **Sneha Patted** — Frontend, Backend integration  
-- **Supraja** — genrating roadmaps  
+- **H Siri** — Prediction system  
+- **Supraja** — genrating roadmaps
+- **Sneha Patted** — Frontend, Backend integration
 
 
 We worked together on requirements, architecture, coding, and project documentation.
